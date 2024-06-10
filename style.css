@@ -147,7 +147,7 @@
     padding-bottom: 20px;
 }
 .bx h1{
-    color: #1B2141;
+    color: #E47968;
     font-weight: 900;
     text-transform: uppercase;
 }
@@ -177,6 +177,7 @@
 h1{
     font-weight: 900;
     /* text-decoration: underline wavy; */
+    color: #E47968;
 }
 .image1{
     width: 100%;
@@ -284,10 +285,11 @@ h1{
 }
 .card
 {
-    border: 2px solid #623863;
+    /* border: 2px solid #623863; */
     border-radius: 8px;
     /* width: 400px; */
     height: 440px;
+    /* background-color: #1B2141 !important; */
 }
 .card-body a
 {
@@ -299,6 +301,7 @@ h1{
     font-size: 32px;
     font-weight: 700;
     transition: ease-in-out 1s;
+    color: white;
 }
 .card:hover a
 {
