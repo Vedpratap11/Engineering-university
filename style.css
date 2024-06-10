@@ -19,6 +19,7 @@
     background-color: #1B2141;
     border-radius: 20px;
 }
+
 .box
 {
     width: 100px;
@@ -110,7 +111,7 @@
     height: 100%;
 }
 .carousel-caption h1{
-    /* color: #FFB45E; */
+    color: white;
     font-style: italic;
     font-size: 60px;
     font-weight: 700;
